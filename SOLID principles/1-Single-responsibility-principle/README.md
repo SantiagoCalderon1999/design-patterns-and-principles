@@ -17,4 +17,4 @@ Aside from that, classes with a single responsibility are substantially easier t
 
 In order to fix the UserController problem, it is recommended to implement three additional classes:
 UserMapper, UserPersistenceService and UserValidator. This will derive in an improved
-understandability of the code.
+understandability of the code. 

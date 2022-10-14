@@ -16,4 +16,4 @@ the behavior of the parent.
 In order to fix this issue, a Shape interface must be included in order to inherit functions
 but not behavior. The Shape interface must be implemented in the Rectangle and Square class.
 This way, the Square is no longer extending the Rectangle class and changing the behavior of its
-methods.
+methods. By following this principle, if a new class get added, it won't interfere with past behavior.

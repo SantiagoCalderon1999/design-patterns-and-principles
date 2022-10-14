@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Liskov-substitution-principle" />
-        <module name="3-Liskov-substitution-principle" />
+        <module name="Interface-segregation-principle" />
       </profile>
     </annotationProcessing>
   </component>
