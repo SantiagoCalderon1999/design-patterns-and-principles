@@ -27,4 +27,5 @@ to the Customer interface.
 ## Preferred approach
 
 The latter one (Object adapter) is the preferred solution as Class adapter
-may break Liskov substitution principle.
+may break Liskov substitution principle. Besides people would be able to use
+Customer methods and Employee methods in the same class. That would create a mess!
