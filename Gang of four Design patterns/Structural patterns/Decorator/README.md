@@ -1,6 +1,6 @@
 # Decorator
 
-We use a bridge when we want to enhance behavior of our existing object dynamically.
+We use a decorator when we want to enhance behavior of our existing object dynamically.
 So it basically wraps an object by adding functionality. You can leverage recursive composition
 for adding many functionalities one after the other.
 
