@@ -1,0 +1,6 @@
+# ignore Java compiled files
+target/
+
+# ignore IDE specific files
+.idea/
+.vs/
