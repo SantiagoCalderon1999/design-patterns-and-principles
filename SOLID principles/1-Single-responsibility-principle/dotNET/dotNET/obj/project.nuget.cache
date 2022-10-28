@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lk8Obw/bDdhb15BHWjbynpsAtdSnwy/1Nmk1gOEIlTKfS55lQel0HfWaiDInjy1r2qPnVCyk4h5NKeQ3jJl2Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\repos\\design-patterns-and-principles\\SOLID principles\\1-Single-responsibility-principle\\dotNET\\dotNET\\dotNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
