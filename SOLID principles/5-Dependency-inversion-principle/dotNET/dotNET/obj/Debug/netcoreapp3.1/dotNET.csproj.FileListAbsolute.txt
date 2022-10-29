@@ -1,0 +1,16 @@
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\obj\Debug\netcoreapp3.1\dotNET.csproj.AssemblyReference.cache
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\obj\Debug\netcoreapp3.1\dotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\obj\Debug\netcoreapp3.1\dotNET.AssemblyInfoInputs.cache
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\obj\Debug\netcoreapp3.1\dotNET.AssemblyInfo.cs
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\obj\Debug\netcoreapp3.1\dotNET.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\bin\Debug\netcoreapp3.1\dotNET.exe
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\bin\Debug\netcoreapp3.1\dotNET.deps.json
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\bin\Debug\netcoreapp3.1\dotNET.runtimeconfig.json
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\bin\Debug\netcoreapp3.1\dotNET.runtimeconfig.dev.json
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\bin\Debug\netcoreapp3.1\dotNET.dll
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\bin\Debug\netcoreapp3.1\dotNET.pdb
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\obj\Debug\netcoreapp3.1\dotNET.csproj.CopyComplete
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\obj\Debug\netcoreapp3.1\dotNET.dll
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\obj\Debug\netcoreapp3.1\dotNET.pdb
+C:\Users\lenovo\repos\design-patterns-and-principles\SOLID principles\5-Dependency-inversion-principle\dotNET\dotNET\obj\Debug\netcoreapp3.1\dotNET.genruntimeconfig.cache
